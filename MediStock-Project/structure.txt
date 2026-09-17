@@ -1,0 +1,20 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 96F4-08DA
+
+ Directory of C:\Users\TULSHI\Downloads\Medix-\MediStock-Project
+
+09/17/2026  03:13 PM    <DIR>          .
+09/17/2026  03:11 PM    <DIR>          ..
+09/17/2026  03:11 PM    <DIR>          medistock
+09/17/2026  03:13 PM                 0 structure.txt
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\TULSHI\Downloads\Medix-\MediStock-Project\medistock
+
+09/17/2026  03:11 PM    <DIR>          .
+09/17/2026  03:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               1 File(s)              0 bytes
+               5 Dir(s)  117,951,574,016 bytes free
